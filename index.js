@@ -1,3 +1,3 @@
-import Initializer from "./lib/init.js";
+import { Initializer } from "./lib/init.js";
 
-new Initializer();
+new Initializer().run();
