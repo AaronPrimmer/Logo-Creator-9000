@@ -5,14 +5,14 @@ describe("Circle", () => {
     const circle = new Circle();
     circle.setColor("red");
     expect(circle.render()).toEqual(
-      '<circle cx="200" cy="200" r="100" fill="red"/>'
+      '<circle cx="150" cy="100" r="90" fill="red"/>'
     );
   });
   test("Circle render method with green color", () => {
     const circle = new Circle();
     circle.setColor("green");
     expect(circle.render()).toEqual(
-      '<circle cx="200" cy="200" r="100" fill="green"/>'
+      '<circle cx="150" cy="100" r="90" fill="green"/>'
     );
   });
 });
@@ -39,14 +39,14 @@ describe("Square", () => {
     const square = new Square();
     square.setColor("purple");
     expect(square.render()).toEqual(
-      '<rect x="90" y="40" width="120" height="120" fill="purple"/>'
+      '<rect x="60" y="10" width="180" height="180" fill="purple"/>'
     );
   });
   test("Square render method with orange color", () => {
     const square = new Square();
     square.setColor("orange");
     expect(square.render()).toEqual(
-      '<rect x="90" y="40" width="120" height="120" fill="orange"/>'
+      '<rect x="60" y="10" width="180" height="180" fill="orange"/>'
     );
   });
 });
