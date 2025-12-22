@@ -84,7 +84,7 @@ Generated logo.svg
 - 💾 Generates scalable SVG files
 - ⚡ Fast and lightweight
 
-## Demo
+## Demo Video
 
 [![Aaron's Module 10 Challenge Video](https://img.youtube.com/vi/r0qtKWbi2-o/0.jpg)](https://youtu.be/r0qtKWbi2-o)
 
