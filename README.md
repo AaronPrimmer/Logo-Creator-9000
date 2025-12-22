@@ -23,19 +23,21 @@ Logo Creator 9000 is a command-line tool that allows users to quickly generate S
 
 ## Installation
 
-1. Clone the repository:
+1. Fork the repository.
+
+2. Clone your forked repository:
 
 ```bash
 git clone https://github.com/YOUR-USERNAME/logo-creator-9000.git
 ```
 
-2. Navigate to the project directory:
+3. Navigate to the project directory:
 
 ```bash
 cd logo-creator-9000
 ```
 
-3. Install dependencies:
+4. Install dependencies:
 
 ```bash
 npm install
