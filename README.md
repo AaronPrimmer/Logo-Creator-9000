@@ -82,7 +82,7 @@ Generated logo.svg
 
 ## Demo
 
-![Demo Video](./assets/AaronPrimmer-Module10Video.mp4)
+[![Aaron's Module 10 Challenge Video](https://img.youtube.com/vi/r0qtKWbi2-o/0.jpg)](https://youtu.be/r0qtKWbi2-o)
 
 ## Technologies
 
